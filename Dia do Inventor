@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title> Dia do Inventor</title>
+    </head>
+    <body>
+       <h1> Dia do Inventor </h1>
+          <b> <h2> Conheça Alberto Santos Dumont </h2></b>
+          <img src="https://th.bing.com/th/id/OIP.V8HCg7wJqljSGkJDARCbRQHaFE?w=709&h=486&rs=1&pid=ImgDetMain" align="mid" height=700 >
+          
+          <b><h3> Santos Dumont foi um cientista brasileiro que ficou marcado na história pelas grandes contribuições que deixou na área da aviação no começo do século XX.</h3>
+          </b>
+          <h1>Projetos de Dumont </h1>
+          <img src="https://s1.static.brasilescola.uol.com.br/be/2020/06/14-bis.jpg" align="mid" >
+          <h3> 14-Bis, aeroplano desenvolvido por Santos Dumont, com um motor de 50 cavalos de potência. O 14-Bis teve dois voos destacados: o primeiro aconteceu em 23 de outubro de 1906, com 60 metros de altura. O segundo voo foi assistido por membros da Federação Aeronáutica Internacional (FAI), no dia 12 de novembro de 1906, fazendo um voo de 220 metros a seis metros de altura em Paris"</h3>
+    </body>
+</html>
